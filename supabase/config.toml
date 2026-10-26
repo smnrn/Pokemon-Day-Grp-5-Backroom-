@@ -1,0 +1,4 @@
+[functions.make-server-15374a1d]
+entrypoint = "./functions/server/index.tsx"
+import_map = "./functions/server/deno.json"
+verify_jwt = true

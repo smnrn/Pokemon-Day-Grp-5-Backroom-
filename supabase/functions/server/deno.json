@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "hono": "npm:hono@4.13.14",
+    "hono/cors": "npm:hono@4.13.14/cors",
+    "hono/logger": "npm:hono@4.13.14/logger",
+    "hono/body-limit": "npm:hono@4.13.14/body-limit"
+  }
+}
